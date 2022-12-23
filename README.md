@@ -1,1 +1,6 @@
 # hunaycodess
+👋 Hi, I’m @hunaycodes
+- 👀 I’m interested in creating assistive technologies for persons with disabilities
+- 🌱 I’m currently learning software engineering at Digital Futures Academy
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me:honey.anim@yahoo.com ...
